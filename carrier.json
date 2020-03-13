@@ -5,7 +5,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
-    "photo": "",
+    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",
     "settlements": [
       {
         "settlementId": "AKA-010101",
@@ -24,7 +24,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
-    "photo": "",    
+    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",    
     "settlements": [
       {
         "settlementId": "JCL-010101",
@@ -43,7 +43,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
-    "photo": "",    
+    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",    
     "settlements": [
       {
         "settlementId": "TRANSPORT-010101",
@@ -62,7 +62,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
-    "photo": "",    
+    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",    
     "settlements": [
       {
         "settlementId": "DAA-010101",
@@ -81,7 +81,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
-    "photo": "",    
+    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",    
     "settlements": [
       {
         "settlementId": "GMAN-010101",
