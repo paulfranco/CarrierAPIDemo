@@ -13,8 +13,7 @@
         "stopCount": 50,
         "routeCount": 5,
         "mileage": 550,
-        "revenue": 2500.0,
-        "status": ["paid"]
+        "revenue": 2500.0
       }
     ]
   },
@@ -32,8 +31,7 @@
         "stopCount": 50,
         "routeCount": 5,
         "mileage": 550,
-        "revenue": 2500.0,
-        "status": ["paid"]
+        "revenue": 2500.0
       }
     ]
   },
@@ -51,8 +49,7 @@
         "stopCount": 50,
         "routeCount": 5,
         "mileage": 550,
-        "revenue": 2500.0,
-        "status": ["paid"]
+        "revenue": 2500.0
       }
     ]
   },
@@ -70,8 +67,7 @@
         "stopCount": 50,
         "routeCount": 5,
         "mileage": 550,
-        "revenue": 2500.0,
-        "status": ["paid"]
+        "revenue": 2500.0
       }
     ]
   },
@@ -89,8 +85,7 @@
         "stopCount": 50,
         "routeCount": 5,
         "mileage": 550,
-        "revenue": 2500.0,
-        "status": ["paid"]
+        "revenue": 2500.0
       }
     ]
   }
