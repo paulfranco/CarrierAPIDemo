@@ -5,6 +5,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
+    "photo": "",
     "settlements": [
       {
         "settlementId": "AKA-010101",
@@ -23,6 +24,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
+    "photo": "",    
     "settlements": [
       {
         "settlementId": "JCL-010101",
@@ -41,6 +43,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
+    "photo": "",    
     "settlements": [
       {
         "settlementId": "TRANSPORT-010101",
@@ -59,6 +62,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
+    "photo": "",    
     "settlements": [
       {
         "settlementId": "DAA-010101",
@@ -77,6 +81,7 @@
     "carrierDot": "444444",
     "carrierMc": "333333",
     "createdAt": "Dec. 18",
+    "photo": "",    
     "settlements": [
       {
         "settlementId": "GMAN-010101",
