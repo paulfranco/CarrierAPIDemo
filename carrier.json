@@ -1,0 +1,92 @@
+[
+  {
+    "carrierName": "AKA Delivery",
+    "carrierUbi": "555555",
+    "carrierDot": "444444",
+    "carrierMc": "333333",
+    "createdAt": "Dec. 18",
+    "settlements": [
+      {
+        "settlementId": "AKA-010101",
+        "settlementDate": "Dec, 01, 2019",
+        "stopCount": 50,
+        "routeCount": 5,
+        "mileage": 550,
+        "revenue": 2500.0,
+        "status": ["paid"]
+      }
+    ]
+  },
+  {
+    "carrierName": "JCL Delivery",
+    "carrierUbi": "555555",
+    "carrierDot": "444444",
+    "carrierMc": "333333",
+    "createdAt": "Dec. 18",
+    "settlements": [
+      {
+        "settlementId": "JCL-010101",
+        "settlementDate": "Dec, 01, 2019",
+        "stopCount": 50,
+        "routeCount": 5,
+        "mileage": 550,
+        "revenue": 2500.0,
+        "status": ["paid"]
+      }
+    ]
+  },
+  {
+    "carrierName": "Transport Delivery",
+    "carrierUbi": "555555",
+    "carrierDot": "444444",
+    "carrierMc": "333333",
+    "createdAt": "Dec. 18",
+    "settlements": [
+      {
+        "settlementId": "TRANSPORT-010101",
+        "settlementDate": "Dec, 01, 2019",
+        "stopCount": 50,
+        "routeCount": 5,
+        "mileage": 550,
+        "revenue": 2500.0,
+        "status": ["paid"]
+      }
+    ]
+  },
+  {
+    "carrierName": "DAA Delivery",
+    "carrierUbi": "555555",
+    "carrierDot": "444444",
+    "carrierMc": "333333",
+    "createdAt": "Dec. 18",
+    "settlements": [
+      {
+        "settlementId": "DAA-010101",
+        "settlementDate": "Dec, 01, 2019",
+        "stopCount": 50,
+        "routeCount": 5,
+        "mileage": 550,
+        "revenue": 2500.0,
+        "status": ["paid"]
+      }
+    ]
+  },
+  {
+    "carrierName": "GMAN Delivery",
+    "carrierUbi": "555555",
+    "carrierDot": "444444",
+    "carrierMc": "333333",
+    "createdAt": "Dec. 18",
+    "settlements": [
+      {
+        "settlementId": "GMAN-010101",
+        "settlementDate": "Dec, 01, 2019",
+        "stopCount": 50,
+        "routeCount": 5,
+        "mileage": 550,
+        "revenue": 2500.0,
+        "status": ["paid"]
+      }
+    ]
+  }
+]
