@@ -1,87 +1,1065 @@
-[
-  {
-    "carrierName": "AKA Delivery",
-    "carrierUbi": "555555",
-    "carrierDot": "444444",
-    "carrierMc": "333333",
-    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",
-    "settlements": [
-      {
-        "settlementId": "AKA-010101",
-        "settlementDate": "Dec, 01, 2019",
-        "stopCount": 50,
-        "routeCount": 5,
-        "mileage": 550,
-        "revenue": 2500.0
-      }
-    ]
+
+{
+  "success": true,
+  "count": 6,
+  "pagination": {
+    
   },
-  {
-    "carrierName": "JCL Delivery",
-    "carrierUbi": "555555",
-    "carrierDot": "444444",
-    "carrierMc": "333333",
-    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",    
-    "settlements": [
-      {
-        "settlementId": "JCL-010101",
-        "settlementDate": "Dec, 01, 2019",
-        "stopCount": 50,
-        "routeCount": 5,
-        "mileage": 550,
-        "revenue": 2500.0
-      }
-    ]
-  },
-  {
-    "carrierName": "Transport Delivery",
-    "carrierUbi": "555555",
-    "carrierDot": "444444",
-    "carrierMc": "333333",
-    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",    
-    "settlements": [
-      {
-        "settlementId": "TRANSPORT-010101",
-        "settlementDate": "Dec, 01, 2019",
-        "stopCount": 50,
-        "routeCount": 5,
-        "mileage": 550,
-        "revenue": 2500.0
-      }
-    ]
-  },
-  {
-    "carrierName": "DAA Delivery",
-    "carrierUbi": "555555",
-    "carrierDot": "444444",
-    "carrierMc": "333333",
-    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",    
-    "settlements": [
-      {
-        "settlementId": "DAA-010101",
-        "settlementDate": "Dec, 01, 2019",
-        "stopCount": 50,
-        "routeCount": 5,
-        "mileage": 550,
-        "revenue": 2500.0
-      }
-    ]
-  },
-  {
-    "carrierName": "GMAN Delivery",
-    "carrierUbi": "555555",
-    "carrierDot": "444444",
-    "carrierMc": "333333",
-    "photo": "https://github.com/paulfranco/CarrierAPIDemo/blob/master/default.jpg",    
-    "settlements": [
-      {
-        "settlementId": "GMAN-010101",
-        "settlementDate": "Dec, 01, 2019",
-        "stopCount": 50,
-        "routeCount": 5,
-        "mileage": 550,
-        "revenue": 2500.0
-      }
-    ]
-  }
-]
+  "data": [
+    {
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.270991,
+          47.343423
+        ],
+        "formattedAddress": "4856 S 288th St, Auburn, WA 98001-2826, US",
+        "street": "4856 S 288th St",
+        "city": "Auburn",
+        "state": "WA",
+        "country": "US"
+      },
+      "services": [
+        
+      ],
+      "market": [
+        
+      ],
+      "account": [
+        
+      ],
+      "status": [
+        
+      ],
+      "photo": "no-photo.jpg",
+      "_id": "5e2cc668d9e6e1362c5da79f",
+      "name": "Transport II Delivery, LLC",
+      "ubi": "604-025-491",
+      "ein": "000000",
+      "dot": "2937043",
+      "ccpermit": "000000",
+      "mcnumber": "60944",
+      "landi": "633-951-00",
+      "user": "5e1aefe8e49ee92468a44c04",
+      "createdAt": "2020-01-25T22:51:20.991Z",
+      "slug": "transport-ii-delivery-llc",
+      "__v": 0,
+      "settlements": [
+        
+      ],
+      "id": "5e2cc668d9e6e1362c5da79f"
+    },
+    {
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.229621,
+          47.392527
+        ],
+        "formattedAddress": "1024 N Central Ave, apt n3, Kent, WA 98031, US",
+        "street": "1024 N Central Ave, apt n3",
+        "city": "Kent",
+        "state": "WA",
+        "country": "US"
+      },
+      "services": [
+        
+      ],
+      "market": [
+        
+      ],
+      "account": [
+        
+      ],
+      "status": [
+        
+      ],
+      "photo": "no-photo.jpg",
+      "_id": "5e2cc5f8d9e6e1362c5da79e",
+      "name": "AKA Delivery Service, LLC",
+      "ubi": "603-549-174",
+      "ein": "000000",
+      "dot": "2286942",
+      "ccpermit": "CC067430",
+      "mcnumber": "985515",
+      "landi": "234-470-00",
+      "user": "5e1aefe8e49ee92468a44c04",
+      "createdAt": "2020-01-25T22:49:28.105Z",
+      "slug": "aka-delivery-service-llc",
+      "__v": 0,
+      "settlements": [
+        
+      ],
+      "id": "5e2cc5f8d9e6e1362c5da79e"
+    },
+    {
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.185858,
+          47.445169
+        ],
+        "formattedAddress": "[11600 - 11610] SE Petrovitsky Rd, K-105, Renton, WA 98058-6637, US",
+        "street": "[11600 - 11610] SE Petrovitsky Rd, K-105",
+        "city": "Renton",
+        "state": "WA",
+        "country": "US"
+      },
+      "services": [
+        
+      ],
+      "market": [
+        
+      ],
+      "account": [
+        
+      ],
+      "status": [
+        
+      ],
+      "photo": "no-photo.jpg",
+      "_id": "5e2cc58cd9e6e1362c5da79d",
+      "name": "Shalom Delivery Services, LLC",
+      "ubi": "603-594-518",
+      "ein": "000000",
+      "dot": "2912879",
+      "ccpermit": "000000",
+      "mcnumber": "998931",
+      "landi": "625,558-00",
+      "user": "5e1aefe8e49ee92468a44c04",
+      "createdAt": "2020-01-25T22:47:40.166Z",
+      "slug": "shalom-delivery-services-llc",
+      "__v": 0,
+      "settlements": [
+        
+      ],
+      "id": "5e2cc58cd9e6e1362c5da79d"
+    },
+    {
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.201075,
+          47.40062
+        ],
+        "formattedAddress": "22440 Benson Rd SE, Kent, WA 98031-2500, US",
+        "street": "22440 Benson Rd SE",
+        "city": "Kent",
+        "state": "WA",
+        "country": "US"
+      },
+      "services": [
+        
+      ],
+      "market": [
+        
+      ],
+      "account": [
+        
+      ],
+      "status": [
+        
+      ],
+      "photo": "no-photo.jpg",
+      "_id": "5e2cc505d9e6e1362c5da79c",
+      "name": "America RA, LLC",
+      "ubi": "604-08-2692",
+      "ein": "000000",
+      "dot": "2975456",
+      "ccpermit": "000000",
+      "mcnumber": "000000",
+      "landi": "640,825-00",
+      "user": "5e1aefe8e49ee92468a44c04",
+      "createdAt": "2020-01-25T22:45:25.655Z",
+      "slug": "america-ra-llc",
+      "__v": 0,
+      "settlements": [
+        
+      ],
+      "id": "5e2cc505d9e6e1362c5da79c"
+    },
+    {
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.347073,
+          47.234762
+        ],
+        "formattedAddress": "2536 62nd Ave E, APT D, Fife, WA 98424-2272, US",
+        "street": "2536 62nd Ave E, APT D",
+        "city": "Fife",
+        "state": "WA",
+        "country": "US"
+      },
+      "services": [
+        
+      ],
+      "market": [
+        
+      ],
+      "account": [
+        
+      ],
+      "status": [
+        
+      ],
+      "photo": "no-photo.jpg",
+      "_id": "5e2cc497d9e6e1362c5da79b",
+      "name": "White Wolf Express, LLC",
+      "ubi": "604-264-388",
+      "ein": "000000",
+      "dot": "3146157",
+      "ccpermit": "000000",
+      "mcnumber": "121611",
+      "landi": "666289",
+      "user": "5e1aefe8e49ee92468a44c04",
+      "createdAt": "2020-01-25T22:43:35.526Z",
+      "slug": "white-wolf-express-llc",
+      "__v": 0,
+      "settlements": [
+        
+      ],
+      "id": "5e2cc497d9e6e1362c5da79b"
+    },
+    {
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -122.252939,
+          47.46889
+        ],
+        "formattedAddress": "14900 Interurban Ave S, SUITE 278, Tukwila, WA 98168-4618, US",
+        "street": "14900 Interurban Ave S, SUITE 278",
+        "city": "Tukwila",
+        "state": "WA",
+        "country": "US"
+      },
+      "services": [
+        
+      ],
+      "market": [
+        
+      ],
+      "account": [
+        
+      ],
+      "status": [
+        
+      ],
+      "photo": "no-photo.jpg",
+      "_id": "5e2b4280d9e6e1362c5da795",
+      "name": "JRMA, LLC",
+      "ubi": "000000",
+      "ein": "000000",
+      "dot": "000000",
+      "ccpermit": "000000",
+      "mcnumber": "000000",
+      "landi": "000000",
+      "user": "5e1aefe8e49ee92468a44c04",
+      "createdAt": "2020-01-24T19:16:16.880Z",
+      "slug": "jrma-llc",
+      "__v": 0,
+      "averageSettlementRevenue": 3413.2713636363637,
+      "averageSettlementRouteCount": 5.659090909090909,
+      "averageSettlementStopCount": 61.02272727272727,
+      "totalRouteCount": 249,
+      "totalSalesRevenue": 150183.94,
+      "totalStopCount": 2685,
+      "settlements": [
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2b4307d9e6e1362c5da796",
+          "settlementNumber": "JRMA-10022019",
+          "periodEnding": "2019-10-02T00:00:00.000Z",
+          "periodStart": "2019-09-26T00:00:00.000Z",
+          "payDate": "2019-10-18T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3171.18,
+          "routeCount": 5,
+          "stopCount": 56,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-24T19:18:31.736Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2b43c1d9e6e1362c5da797",
+          "settlementNumber": "JRMA-10092019",
+          "periodEnding": "2019-10-09T00:00:00.000Z",
+          "periodStart": "2019-10-03T00:00:00.000Z",
+          "payDate": "2019-10-25T00:00:00.000Z",
+          "checkNumber": "555555",
+          "settlementAmount": 2927.91,
+          "routeCount": 5,
+          "stopCount": 49,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-24T19:21:37.431Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2b4454d9e6e1362c5da798",
+          "settlementNumber": "JRMA-10162019",
+          "periodEnding": "2019-10-16T00:00:00.000Z",
+          "periodStart": "2019-10-10T00:00:00.000Z",
+          "payDate": "2019-11-01T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 2346,
+          "routeCount": 4,
+          "stopCount": 39,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-24T19:24:04.935Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2b450ed9e6e1362c5da799",
+          "settlementNumber": "JRMA-10232019",
+          "periodEnding": "2019-10-23T00:00:00.000Z",
+          "periodStart": "2019-10-17T00:00:00.000Z",
+          "payDate": "2019-11-08T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 2273.75,
+          "routeCount": 4,
+          "stopCount": 37,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-24T19:27:10.706Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2b4582d9e6e1362c5da79a",
+          "settlementNumber": "JRMA-10302019",
+          "periodEnding": "2019-10-30T00:00:00.000Z",
+          "periodStart": "2019-10-24T00:00:00.000Z",
+          "payDate": "2019-11-15T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 2958,
+          "routeCount": 5,
+          "stopCount": 55,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-24T19:29:06.622Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2cc78dd9e6e1362c5da7a0",
+          "settlementNumber": "JRMA-09252019",
+          "periodEnding": "2019-09-25T00:00:00.000Z",
+          "periodStart": "2019-09-19T00:00:00.000Z",
+          "payDate": "2019-10-11T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 2679.73,
+          "routeCount": 4,
+          "stopCount": 39,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-25T22:56:13.913Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2cc92dd9e6e1362c5da7a1",
+          "settlementNumber": "JRMA-09182019",
+          "periodEnding": "2019-09-18T00:00:00.000Z",
+          "periodStart": "2019-09-12T00:00:00.000Z",
+          "payDate": "2019-10-04T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3145.17,
+          "routeCount": 5,
+          "stopCount": 52,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-25T23:03:09.039Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2cc972d9e6e1362c5da7a2",
+          "settlementNumber": "JRMA-09112019",
+          "periodEnding": "2019-09-11T00:00:00.000Z",
+          "periodStart": "2019-09-05T00:00:00.000Z",
+          "payDate": "2019-09-27T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3162.34,
+          "routeCount": 5,
+          "stopCount": 53,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-25T23:04:18.637Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2cca06d9e6e1362c5da7a3",
+          "settlementNumber": "JRMA-09042019",
+          "periodEnding": "2019-09-04T00:00:00.000Z",
+          "periodStart": "2019-08-29T00:00:00.000Z",
+          "payDate": "2019-09-20T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 2894.08,
+          "routeCount": 5,
+          "stopCount": 49,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-25T23:06:46.380Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2cca60d9e6e1362c5da7a4",
+          "settlementNumber": "JRMA-08282019",
+          "periodEnding": "2019-08-28T00:00:00.000Z",
+          "periodStart": "2019-08-22T00:00:00.000Z",
+          "payDate": "2019-09-13T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3098.59,
+          "routeCount": 5,
+          "stopCount": 53,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-25T23:08:16.109Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2ccac4d9e6e1362c5da7a5",
+          "settlementNumber": "JRMA-08212019",
+          "periodEnding": "2019-08-21T00:00:00.000Z",
+          "periodStart": "2019-08-15T00:00:00.000Z",
+          "payDate": "2019-09-06T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 2871.81,
+          "routeCount": 5,
+          "stopCount": 43,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-25T23:09:56.498Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2ccbf2d9e6e1362c5da7a6",
+          "settlementNumber": "JRMA-08142019",
+          "periodEnding": "2019-08-14T00:00:00.000Z",
+          "periodStart": "2019-08-08T00:00:00.000Z",
+          "payDate": "2019-08-30T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3208.75,
+          "routeCount": 5,
+          "stopCount": 51,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-25T23:14:58.092Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2ccc8ed9e6e1362c5da7a7",
+          "settlementNumber": "JRMA-08072019",
+          "periodEnding": "2019-08-07T00:00:00.000Z",
+          "periodStart": "2019-08-01T00:00:00.000Z",
+          "payDate": "2019-08-23T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3183.76,
+          "routeCount": 5,
+          "stopCount": 55,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-25T23:17:34.121Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e2cccf9d9e6e1362c5da7a8",
+          "settlementNumber": "JRMA-07312019",
+          "periodEnding": "2019-07-31T00:00:00.000Z",
+          "periodStart": "2019-07-25T00:00:00.000Z",
+          "payDate": "2019-08-16T00:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3557.59,
+          "routeCount": 6,
+          "stopCount": 52,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-01-25T23:19:21.416Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e3689d9e6a5c2117b6cb946",
+          "settlementNumber": "JRMA-01022019",
+          "periodEnding": "2019-01-02T08:00:00.000Z",
+          "periodStart": "2018-12-27T08:00:00.000Z",
+          "payDate": "2019-01-18T08:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3254.9,
+          "routeCount": 7,
+          "stopCount": 74,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:35:37.615Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368a8de6a5c2117b6cb947",
+          "settlementNumber": "JRMA-01092019",
+          "periodEnding": "2019-01-09T08:00:00.000Z",
+          "periodStart": "2018-01-03T08:00:00.000Z",
+          "payDate": "2019-01-25T08:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3426.25,
+          "routeCount": 7,
+          "stopCount": 76,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:38:37.834Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368b5de6a5c2117b6cb948",
+          "settlementNumber": "JRMA-01162019",
+          "periodEnding": "2019-01-16T08:00:00.000Z",
+          "periodStart": "2018-01-10T08:00:00.000Z",
+          "payDate": "2019-02-01T08:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3868.65,
+          "routeCount": 7,
+          "stopCount": 83,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:42:05.907Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368bc0e6a5c2117b6cb949",
+          "settlementNumber": "JRMA-01232019",
+          "periodEnding": "2019-01-23T08:00:00.000Z",
+          "periodStart": "2018-01-17T08:00:00.000Z",
+          "payDate": "2019-02-08T08:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3065.1,
+          "routeCount": 7,
+          "stopCount": 72,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:43:44.231Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368c38e6a5c2117b6cb94a",
+          "settlementNumber": "JRMA-01302019",
+          "periodEnding": "2019-01-30T08:00:00.000Z",
+          "periodStart": "2018-01-24T08:00:00.000Z",
+          "payDate": "2019-02-15T08:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4100.15,
+          "routeCount": 7,
+          "stopCount": 87,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:45:44.624Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368ccee6a5c2117b6cb94b",
+          "settlementNumber": "JRMA-02062019",
+          "periodEnding": "2019-02-06T08:00:00.000Z",
+          "periodStart": "2018-01-31T08:00:00.000Z",
+          "payDate": "2019-02-22T08:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 2305,
+          "routeCount": 4,
+          "stopCount": 40,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:48:14.759Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368d3de6a5c2117b6cb94c",
+          "settlementNumber": "JRMA-02132019",
+          "periodEnding": "2019-02-13T08:00:00.000Z",
+          "periodStart": "2018-02-07T08:00:00.000Z",
+          "payDate": "2019-03-01T08:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 1566.2,
+          "routeCount": 3,
+          "stopCount": 28,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:50:05.404Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368dfbe6a5c2117b6cb94d",
+          "settlementNumber": "JRMA-02202019",
+          "periodEnding": "2019-02-20T08:00:00.000Z",
+          "periodStart": "2018-02-14T08:00:00.000Z",
+          "payDate": "2019-03-08T08:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3801.9,
+          "routeCount": 7,
+          "stopCount": 80,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:53:15.940Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368e47e6a5c2117b6cb94e",
+          "settlementNumber": "JRMA-02272019",
+          "periodEnding": "2019-02-27T08:00:00.000Z",
+          "periodStart": "2018-02-21T08:00:00.000Z",
+          "payDate": "2019-03-15T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4710.1,
+          "routeCount": 7,
+          "stopCount": 88,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:54:31.565Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368edae6a5c2117b6cb94f",
+          "settlementNumber": "JRMA-03062019",
+          "periodEnding": "2019-03-06T08:00:00.000Z",
+          "periodStart": "2018-02-28T08:00:00.000Z",
+          "payDate": "2019-03-22T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4317.66,
+          "routeCount": 7,
+          "stopCount": 83,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:56:58.709Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e368f67e6a5c2117b6cb950",
+          "settlementNumber": "JRMA-03132019",
+          "periodEnding": "2019-03-13T07:00:00.000Z",
+          "periodStart": "2018-03-07T08:00:00.000Z",
+          "payDate": "2019-03-29T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4363.35,
+          "routeCount": 7,
+          "stopCount": 85,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T08:59:19.482Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369009e6a5c2117b6cb951",
+          "settlementNumber": "JRMA-03202019",
+          "periodEnding": "2019-03-20T07:00:00.000Z",
+          "periodStart": "2018-03-14T07:00:00.000Z",
+          "payDate": "2019-04-05T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3654.95,
+          "routeCount": 6,
+          "stopCount": 78,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:02:01.999Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369092e6a5c2117b6cb952",
+          "settlementNumber": "JRMA-03272019",
+          "periodEnding": "2019-03-27T07:00:00.000Z",
+          "periodStart": "2018-03-21T07:00:00.000Z",
+          "payDate": "2019-04-12T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4341.2,
+          "routeCount": 7,
+          "stopCount": 76,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:04:18.301Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e3692e5e6a5c2117b6cb953",
+          "settlementNumber": "JRMA-04032019",
+          "periodEnding": "2019-04-03T07:00:00.000Z",
+          "periodStart": "2018-03-28T07:00:00.000Z",
+          "payDate": "2019-04-19T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4589.8,
+          "routeCount": 7,
+          "stopCount": 78,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:14:13.127Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e36933ce6a5c2117b6cb954",
+          "settlementNumber": "JRMA-04102019",
+          "periodEnding": "2019-04-10T07:00:00.000Z",
+          "periodStart": "2018-04-04T07:00:00.000Z",
+          "payDate": "2019-04-26T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3963.55,
+          "routeCount": 6,
+          "stopCount": 73,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:15:40.283Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e3693d1e6a5c2117b6cb955",
+          "settlementNumber": "JRMA-04172019",
+          "periodEnding": "2019-04-17T07:00:00.000Z",
+          "periodStart": "2018-04-11T07:00:00.000Z",
+          "payDate": "2019-05-03T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4146.95,
+          "routeCount": 7,
+          "stopCount": 76,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:18:09.880Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369440e6a5c2117b6cb956",
+          "settlementNumber": "JRMA-04242019",
+          "periodEnding": "2019-04-24T07:00:00.000Z",
+          "periodStart": "2018-04-18T07:00:00.000Z",
+          "payDate": "2019-05-10T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 2987.2,
+          "routeCount": 5,
+          "stopCount": 50,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:20:00.752Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e3698e6e6a5c2117b6cb957",
+          "settlementNumber": "JRMA-05012019",
+          "periodEnding": "2019-05-01T07:00:00.000Z",
+          "periodStart": "2018-04-25T07:00:00.000Z",
+          "payDate": "2019-05-17T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4405.5,
+          "routeCount": 7,
+          "stopCount": 78,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:39:50.825Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369997e6a5c2117b6cb958",
+          "settlementNumber": "JRMA-05082019",
+          "periodEnding": "2019-05-08T07:00:00.000Z",
+          "periodStart": "2019-05-02T07:00:00.000Z",
+          "payDate": "2019-05-24T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4025,
+          "routeCount": 6,
+          "stopCount": 67,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:42:47.900Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369a0fe6a5c2117b6cb959",
+          "settlementNumber": "JRMA-05152019",
+          "periodEnding": "2019-05-15T07:00:00.000Z",
+          "periodStart": "2019-05-09T07:00:00.000Z",
+          "payDate": "2019-06-07T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4340.4,
+          "routeCount": 7,
+          "stopCount": 78,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:44:47.982Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369a71e6a5c2117b6cb95a",
+          "settlementNumber": "JRMA-05222019",
+          "periodEnding": "2019-05-22T07:00:00.000Z",
+          "periodStart": "2019-05-16T07:00:00.000Z",
+          "payDate": "2019-06-14T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3506.05,
+          "routeCount": 6,
+          "stopCount": 62,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:46:25.103Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369ad2e6a5c2117b6cb95b",
+          "settlementNumber": "JRMA-05292019",
+          "periodEnding": "2019-05-29T07:00:00.000Z",
+          "periodStart": "2019-05-23T07:00:00.000Z",
+          "payDate": "2019-06-21T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4390.1,
+          "routeCount": 7,
+          "stopCount": 75,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:48:02.733Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369b40e6a5c2117b6cb95c",
+          "settlementNumber": "JRMA-06052019",
+          "periodEnding": "2019-06-05T07:00:00.000Z",
+          "periodStart": "2019-05-30T07:00:00.000Z",
+          "payDate": "2019-06-21T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3878.9,
+          "routeCount": 6,
+          "stopCount": 63,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:49:52.796Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369bbde6a5c2117b6cb95d",
+          "settlementNumber": "JRMA-06122019",
+          "periodEnding": "2019-06-12T07:00:00.000Z",
+          "periodStart": "2019-06-06T07:00:00.000Z",
+          "payDate": "2019-06-28T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3798.25,
+          "routeCount": 6,
+          "stopCount": 71,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:51:57.176Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369c11e6a5c2117b6cb95e",
+          "settlementNumber": "JRMA-06192019",
+          "periodEnding": "2019-06-19T07:00:00.000Z",
+          "periodStart": "2019-06-13T07:00:00.000Z",
+          "payDate": "2019-07-05T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3556.65,
+          "routeCount": 6,
+          "stopCount": 64,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:53:21.834Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369c77e6a5c2117b6cb95f",
+          "settlementNumber": "JRMA-06262019",
+          "periodEnding": "2019-06-26T07:00:00.000Z",
+          "periodStart": "2019-06-20T07:00:00.000Z",
+          "payDate": "2019-07-12T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3042,
+          "routeCount": 5,
+          "stopCount": 49,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:55:03.738Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369d0de6a5c2117b6cb960",
+          "settlementNumber": "JRMA-07032019",
+          "periodEnding": "2019-07-03T07:00:00.000Z",
+          "periodStart": "2019-06-27T07:00:00.000Z",
+          "payDate": "2019-07-19T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 4410.31,
+          "routeCount": 6,
+          "stopCount": 69,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:57:33.755Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369d7be6a5c2117b6cb961",
+          "settlementNumber": "JRMA-07102019",
+          "periodEnding": "2019-07-10T07:00:00.000Z",
+          "periodStart": "2019-07-04T07:00:00.000Z",
+          "payDate": "2019-07-26T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 0,
+          "routeCount": 0,
+          "stopCount": 0,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T09:59:23.815Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369dd3e6a5c2117b6cb962",
+          "settlementNumber": "JRMA-07172019",
+          "periodEnding": "2019-07-17T07:00:00.000Z",
+          "periodStart": "2019-07-11T07:00:00.000Z",
+          "payDate": "2019-08-02T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3315.51,
+          "routeCount": 6,
+          "stopCount": 53,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T10:00:51.507Z",
+          "__v": 0
+        },
+        {
+          "status": [
+            "Paid"
+          ],
+          "_id": "5e369e40e6a5c2117b6cb963",
+          "settlementNumber": "JRMA-07242019",
+          "periodEnding": "2019-07-24T07:00:00.000Z",
+          "periodStart": "2019-07-18T07:00:00.000Z",
+          "payDate": "2019-08-09T07:00:00.000Z",
+          "checkNumber": "55555",
+          "settlementAmount": 3573.7,
+          "routeCount": 5,
+          "stopCount": 46,
+          "carrier": "5e2b4280d9e6e1362c5da795",
+          "user": "5e1aefe8e49ee92468a44c04",
+          "createdAt": "2020-02-02T10:02:40.016Z",
+          "__v": 0
+        }
+      ],
+      "id": "5e2b4280d9e6e1362c5da795"
+    }
+  ]
+}
